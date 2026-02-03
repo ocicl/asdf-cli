@@ -1,0 +1,10 @@
+* asdf-cli
+
+Command Line Interface for ASDF Common Lisp build system
+
+|---------+---------------------------------------------|
+| source  | git:https://git.sr.ht/~charje/asdf-cli     |
+| commit  | 69e4a42                                     |
+| systems | asdf-cli                                    |
+|---------+---------------------------------------------|
+
